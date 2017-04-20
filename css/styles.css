@@ -1,0 +1,34 @@
+.jumbotron {
+  float: left;
+}
+
+.container {
+}
+
+img {
+  max-width: 200px;
+  max-height: 200px;
+}
+
+.panel-success {
+  float: right;
+}
+
+.feature {
+  float: right;
+
+}
+
+.sidebar {
+  float: left; 0px;
+}
+
+.bowl {
+  float: left;
+  padding: 5px;
+}
+
+.castle {
+  float: right;
+  padding: 5px;
+}
